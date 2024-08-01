@@ -11,7 +11,7 @@ module.exports = [
     "languageCode": "ar_SA",
     "languageName": "Arabic",
     "languageNativeName": "اَلْعَرَبِيَّةُ",
-    "translationRatio": 0.9691328934967012
+    "translationRatio": 0.9707822808671065
   },
   {
     "languageCode": "az_AZ",
@@ -149,13 +149,13 @@ module.exports = [
     "languageCode": "it_IT",
     "languageName": "Italian",
     "languageNativeName": "Italiano",
-    "translationRatio": 0.9810320452403393
+    "translationRatio": 0.9815032987747409
   },
   {
     "languageCode": "ja_JP",
     "languageName": "Japanese",
     "languageNativeName": "日本語",
-    "translationRatio": 0.9855089538171536
+    "translationRatio": 0.9853911404335532
   },
   {
     "languageCode": "ka_GE",
@@ -209,7 +209,7 @@ module.exports = [
     "languageCode": "nl_NL",
     "languageName": "Dutch",
     "languageNativeName": "Nederlands",
-    "translationRatio": 0.4787935909519322
+    "translationRatio": 0.48162111215834114
   },
   {
     "languageCode": "no_NO",
@@ -221,7 +221,7 @@ module.exports = [
     "languageCode": "pl_PL",
     "languageName": "Polish",
     "languageNativeName": "Polski",
-    "translationRatio": 0.9896324222431668
+    "translationRatio": 0.9902214891611687
   },
   {
     "languageCode": "pseudo_LOCALE",
@@ -251,7 +251,7 @@ module.exports = [
     "languageCode": "ru_RU",
     "languageName": "Russian",
     "languageNativeName": "Русский",
-    "translationRatio": 0.9915174363807728
+    "translationRatio": 0.9921065032987747
   },
   {
     "languageCode": "si_LK",
